@@ -1,4 +1,4 @@
-(SIYI A8 Mini Gimbal Kamera)
+# SIYI A8 Mini Gimbal Kamera
 
 Code for SIYI's A8 mini Gimbal Camera. Allows yaw/pitch control, as well as Auto Center, Zoom, etc.
 
@@ -24,7 +24,7 @@ And see something like;
 64 bytes from 192.168.144.25: icmp_seq=3 ttl=64 time=0.255 ms
 
 
-#(Build)
+## Build
 
 In order to run the program, you can build it on device for prototyping.
 
@@ -39,7 +39,7 @@ Get the source code, which is part of this repository, either using scp, or via 
 
 git clone https://github.com/enginksz/siyi_camera_a8_mini.git
 
-#(Usage)
+## Usage
 
 Examples
 
