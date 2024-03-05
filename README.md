@@ -15,7 +15,7 @@ Netmask 255.255.255.0
 
 And then you should be able to ping the camera:
 
-ping 192.168.144.25
+$ ping 192.168.144.25
 
 And see something like;
 
@@ -32,9 +32,9 @@ In order to run the program, you can build it on device for prototyping.
 
 Install the gstreamer dependencies:
 
-sudo apt install libgstreamer1.0-dev libgstrtspserver-1.0-dev build-essential cmake git
+$ sudo apt install libgstreamer1.0-dev libgstrtspserver-1.0-dev build-essential cmake git
 
-sudo apt install ffmpeg
+$ sudo apt install ffmpeg
 
 
 Get the source code, which is part of this repository, either using scp, or via a git clone.
@@ -45,6 +45,6 @@ git clone https://github.com/enginksz/siyi_camera_a8_mini.git
 
 Examples
 
-python3 test_video.py
+$ python3 test_video.py
 
-python3 test_gimbal_rotation.py
+$ python3 test_gimbal_rotation.py
