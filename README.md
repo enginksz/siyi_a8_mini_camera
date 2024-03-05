@@ -20,7 +20,9 @@ ping 192.168.144.25
 And see something like;
 
 64 bytes from 192.168.144.25: icmp_seq=1 ttl=64 time=0.308 ms
+
 64 bytes from 192.168.144.25: icmp_seq=2 ttl=64 time=0.750 ms
+
 64 bytes from 192.168.144.25: icmp_seq=3 ttl=64 time=0.255 ms
 
 
