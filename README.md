@@ -1,4 +1,4 @@
-SIYI A8 Mini Gimbal Kamera
+(SIYI A8 Mini Gimbal Kamera)
 
 Code for SIYI's A8 mini Gimbal Camera. Allows yaw/pitch control, as well as Auto Center, Zoom, etc.
 
